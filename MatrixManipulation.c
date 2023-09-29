@@ -46,6 +46,6 @@ int main(int argc, char** argv) {
     printf("%i elements long\n", num);
     printf("-----------------------------------------------------------------\n");
     free(arr);
-
+    
     return 0;
 }
