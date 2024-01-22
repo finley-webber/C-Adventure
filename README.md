@@ -14,3 +14,7 @@ NOTE: If you find any bugs with this project or any of the others, please notify
 ## Palindromic Substrings
 
 This one was quite hard for me. I was confused on how it worked logistically at first, but now I have a good understanding of it.
+
+## Shellfin
+
+Me trying to make my own shell.
